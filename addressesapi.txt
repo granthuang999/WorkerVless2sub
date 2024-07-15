@@ -1,5 +1,3 @@
-yg.futuremedia.work
-proxyip.futuremedia.work
 104.18.63.237
 104.18.25.184
 104.17.239.5
