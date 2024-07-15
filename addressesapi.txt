@@ -1,3 +1,6 @@
+yg.futuremedia.work
+proxyip.futuremedia.work
+ts.hpc.tw
 172.64.142.171
 162.159.128.245
 104.18.221.17
