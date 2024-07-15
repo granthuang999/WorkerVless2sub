@@ -8,13 +8,14 @@ let addresses = [
 	'ygproxy.futuremedia.work',	
 	'yg.futuremedia.work',
 	'proxyip.futuremedia.work',
-	'proxy.futuremedia.work',
+	'secret.futuremedia.work',
 	'visa.cn',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/granthuang999/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
