@@ -5,11 +5,11 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'bestcf.030101.xyz',
 	'visa.cn',
 	'ygproxy.futuremedia.work', 
         'yg.futuremedia.work',
         'proxyip.futuremedia.work',
+	'ddns.futuremedia.work',
 ];
 
 // 设置优选地址api接口
@@ -24,6 +24,7 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+	'ddns.futuremedia.work',
 ];
 
 // 设置优选noTLS地址api接口
