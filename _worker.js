@@ -7,6 +7,9 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'bestcf.030101.xyz',
 	'visa.cn',
+	'ygproxy.futuremedia.work', 
+        'yg.futuremedia.work',
+        'proxyip.futuremedia.work',
 ];
 
 // 设置优选地址api接口
