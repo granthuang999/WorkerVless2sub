@@ -6,10 +6,8 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'visa.cn',
-	'ygproxy.futuremedia.work', 
-        'yg.futuremedia.work',
+	'yg.futuremedia.work',
         'proxyip.futuremedia.work',
-	'ddns.futuremedia.work',
 ];
 
 // 设置优选地址api接口
@@ -54,7 +52,7 @@ let socks5DataURL = '';//'https://raw.githubusercontent.com/cmliu/WorkerVless2su
 let BotToken ='';
 let ChatID =''; 
 let proxyhosts = [//本地代理域名池
-	//'ppfv2tl9veojd-maillazy.pages.dev',
+	'cf-workers-dd2d-c4h.pages.dev',
 ];
 let proxyhostsURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/proxyhosts';//在线代理域名池URL
 let EndPS = '';//节点名备注内容
