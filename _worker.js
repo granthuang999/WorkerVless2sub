@@ -15,7 +15,7 @@ let addresses = [
 let addressesapi = [
 	'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestproxy.txt', //可参考内容格式 自行搭建。
-	'https://raw.githubusercontent.com/granthuang999/WorkerVless2sub/main/addressesapi.txt', //IPv4优选内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/granthuang999/WorkerVless2sub/main/addressesapi.txt', //IPv4优选内容格式 自行搭建。
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
