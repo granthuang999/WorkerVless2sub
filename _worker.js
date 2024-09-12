@@ -5,12 +5,12 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'bestcf.030101.xyz',
+	'proxy.futuremedia.work',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestproxy.txt', //可参考内容格式 自行搭建。
 	'https://raw.githubusercontent.com/granthuang999/WorkerVless2sub/main/addressesapi.txt', //IPv4优选内容格式 自行搭建。
 ];
@@ -40,8 +40,8 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
-	'proxyip.multacom.fxxk.dedyn.io',
-	'proxyip.vultr.fxxk.dedyn.io',
+	'ProxyIP.HK.fxxk.dedyn.io',
+	'ProxyIP.US.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
 	//'proxyip.aliyun.fxxk.dedyn.io:HK',//匹配节点名, 有HK就分配该ProxyIP域名
